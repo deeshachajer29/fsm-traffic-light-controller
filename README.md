@@ -53,3 +53,4 @@ RTL design and simulation files are included in this repository. Synthesis and f
 The design was simulated using Icarus Verilog, and the resulting waveform was inspected using GTKWave. The waveform shows the clock, reset, and traffic-light output signals during simulation.
 
 ![Traffic Light Controller Simulation Waveform](traffic_light_waveform.png)
+
